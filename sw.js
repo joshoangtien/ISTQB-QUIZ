@@ -1,7 +1,7 @@
 // Đổi số phiên bản khi sửa index.html để máy đã cài nhận bản mới
-const CACHE = 'istqb-quiz-v1';
+const CACHE = 'istqb-quiz-v2';
 const SHELL = ['./', 'index.html', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-maskable-512.png', 'icons/apple-touch-icon.png'];
-const IMAGES = ['images/q021.png','images/q027.png','images/q029.png','images/q033.png','images/q042.png','images/q043.png','images/q056.png','images/q070.png','images/q082.png','images/q119.png','images/q124.png','images/q132.png','images/q134.png','images/q135.png','images/q143.png','images/q151.png','images/q183.png','images/q198.png','images/q199.png'];
+const IMAGES = ['images/q005.png','images/q006.png','images/q059.png','images/q065.png','images/q066.png','images/q080.png','images/q086.png','images/q117.png','images/q118.png','images/q121.png','images/q125.png','images/q131.png','images/q139.png','images/q162.png','images/q163.png','images/q167.png','images/q188.png','images/q194.png','images/q200.png'];
 
 self.addEventListener('install', e => {
   e.waitUntil((async () => {
