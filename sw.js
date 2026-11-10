@@ -1,5 +1,5 @@
 // Đổi số phiên bản khi sửa index.html để máy đã cài nhận bản mới
-const CACHE = 'istqb-quiz-v2';
+const CACHE = 'istqb-quiz-v3';
 const SHELL = ['./', 'index.html', 'manifest.webmanifest', 'icons/icon-192.png', 'icons/icon-512.png', 'icons/icon-maskable-512.png', 'icons/apple-touch-icon.png'];
 const IMAGES = ['images/q005.png','images/q006.png','images/q059.png','images/q065.png','images/q066.png','images/q080.png','images/q086.png','images/q117.png','images/q118.png','images/q121.png','images/q125.png','images/q131.png','images/q139.png','images/q162.png','images/q163.png','images/q167.png','images/q188.png','images/q194.png','images/q200.png'];
 

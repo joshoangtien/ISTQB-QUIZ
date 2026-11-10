@@ -26,3 +26,9 @@ LUYEN DE ISTQB CTFL - 202 cau
    de dien thoai da cai nhan ban moi.
 
 Tien do lam bai luu trong trinh duyet cua tung thiet bi, khong dong bo giua cac may.
+
+5. CAI DAT (nut "Cai dat")
+   - Che do: Toan bo 202 cau (mac dinh) hoac Bo de 40 cau theo 6 chuong (7/6/3/12/8/4).
+   - Xao tron cau hoi, xao tron dap an.
+   - Thi that: 90 phut, dat khi dung >= 26/40; dap an hien sau khi nop bai.
+   - "Xoa du lieu & ve mac dinh" xoa cai dat, bo de va tien do tren trinh duyet.
